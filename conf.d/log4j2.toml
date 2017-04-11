@@ -1,0 +1,7 @@
+[template]
+src = "log4j2.tmpl"
+dest = "/usr/share/elasticsearch/config/log4j2.properties"
+keys = [
+  "/self/service",
+  "/containers",
+]

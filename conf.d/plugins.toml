@@ -2,5 +2,6 @@
 src = "plugins.tmpl"
 dest = "/data/confd/plugins.txt"
 keys = [
-  "/elasticsearch/plugins/",
+  "/self/service",
+  "/containers",
 ]

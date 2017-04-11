@@ -1,0 +1,7 @@
+[template]
+src = "jvm.tmpl"
+dest = "/usr/share/elasticsearch/config/jvm.options"
+keys = [
+  "/self/service",
+  "/containers",
+]
